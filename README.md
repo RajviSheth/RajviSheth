@@ -29,10 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a full-time Software Developer and a part-time Digital Illustrator!
 
 
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajviSheth&show_icons=true&theme=dark)
-
 ## Tech Stack
 <!-- Here are some of the technologies I work with:
 - Python
