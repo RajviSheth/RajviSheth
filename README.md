@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajviSheth&show_icons=true&theme=dark)
 
 ## Tech Stack
 <!-- Here are some of the technologies I work with:
