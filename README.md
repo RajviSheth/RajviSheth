@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## About Me
 
 - 🔭 I’m pursuing Masters in Computer Science from Rochester Institute of Technology (RIT)
-- 🌱 I’m currently learning React
+- 🌱 Know me more at : https://rajvi-sheth-portfolio.vercel.app/
 - 💬 Ask me about Python, Databases, SQL
 - 📫 Reach me at: rs2631@rit.edu or rajvi.sheth@gmail.com
 - 😄 Pronouns: She/her
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 ## Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajvi.sheth@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajvisheth10/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rs2631@rit.edu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajvisheth10/)
 
 
 
