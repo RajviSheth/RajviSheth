@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m pursuing Masters in Computer Science from Rochester Institute of Technology (RIT)
 - 🌱 I’m currently learning React
 - 💬 Ask me about Python, Databases, SQL
-- 📫 Reach me at: rajvi.sheth@gmail.com
+- 📫 Reach me at: rs2631@rit.edu or rajvi.sheth@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am a full-time Software Developer and a part-time Digital Illustrator!
 
