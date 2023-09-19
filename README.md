@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 ## About Me
 
 - 🔭 I’m pursuing Masters in Computer Science from Rochester Institute of Technology (RIT)
-- 🌱 Know me more at : https://rajvi-sheth-portfolio.vercel.app/
 - 💬 Ask me about Python, Databases, SQL
 - 📫 Reach me at: rs2631@rit.edu or rajvi.sheth@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am a full-time Software Developer and a part-time Digital Illustrator!
+- 🌱 Know me more at : https://rajvi-sheth-portfolio.vercel.app/
 
 
 ## Tech Stack
